@@ -1,9 +1,9 @@
 # configs
 A store for config files and access to it world wide
 
-* [bashrc](../bashrc)
+* [bashrc](../master/bashrc)
 * [ssh]()
-* [proxy](../proxy.conf)
+* [proxy](../master/proxy.conf)
 
 ## bashrc
 Basic colored bash prompt configuration.
