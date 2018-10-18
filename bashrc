@@ -37,4 +37,12 @@ extract () {
 
 # aliases
 alias grep='grep --colour=auto'
+alias cp='cp -r'
+alias scp='scp -r'
+alias rm='rm -r'
+alias mkdir='mkdir -p'
+alias ls='ls -F --color=auto'
+alias la='ls -A --color=auto'
+alias ll='ls -l --color=auto -h'
+alias lla='ll -A --color=auto -h'
 which colordiff >/dev/null && alias diff='colordiff'
