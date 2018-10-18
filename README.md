@@ -1,15 +1,15 @@
 # configs
 A store for config files and access to it world wide
 
-* [bashrc]
-* [ssh]
-* [proxy]
+* [bashrc](../vvsergeev/configs/blob/master/bashrc)
+* [ssh]()
+* [proxy](../vvsergeev/configs/blob/master/proxy.conf)
 
-_bashrc_
+**bashrc**
 Basic colored bash prompt configuration
 
-_ssh_
+**ssh**
 Confortable ssh configuration
 
-_proxy_
+**proxy**
 Global quick proxy configuration
