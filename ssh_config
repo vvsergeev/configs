@@ -1,0 +1,9 @@
+#configure ssh
+cat >> /etc/ssh/ssh_config << FOE
+StrictHostKeyChecking no
+UserKnownHostsFile=/dev/null
+FOE
+
+cat >> /etc/ssh/sshd_config << FOE
+UseDNS no
+FOE
